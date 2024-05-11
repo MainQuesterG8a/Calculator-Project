@@ -2,7 +2,7 @@ Calculator Project
 
 Hi, this is John Rey L. Guita and this is my very first software project.
 
-For me to do this project, I watched and read the following tutorials on the "Link Tutorials.txt" so I thank them.
+For me to do this project, I watched and read the following sources/tutorials so I thank them.
 
 1. How to create a calculator in C# windows forms application
 - https://www.youtube.com/watch?v=0wD56qA3oM8&t=70s
