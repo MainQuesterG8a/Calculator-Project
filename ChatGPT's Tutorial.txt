@@ -1,0 +1,44 @@
+That sounds like a great project to learn both GitHub and C#! Here's a basic roadmap you can follow:
+
+1. **Setup GitHub:**
+   - Create a GitHub account if you haven't already.
+   - Install Git on your local machine if you haven't already.
+   - Create a new repository for your calculator project on GitHub.
+   - Clone the repository to your local machine using Git.
+
+2. **Setup Development Environment:**
+   - Install Visual Studio or Visual Studio Code for C# development.
+   - Make sure you have the .NET framework installed.
+
+3. **Create the Calculator Application:**
+   - Start a new C# project in your IDE.
+   - Implement basic arithmetic operations (addition, subtraction, multiplication, division, percentage) as separate methods or functions.
+   - Create a user interface (UI) for the calculator. You can use Windows Forms or WPF for this.
+   - Connect the UI elements (buttons, text boxes) to the corresponding functions.
+
+4. **Testing:**
+   - Test your calculator application to ensure that all operations work as expected.
+   - Handle edge cases and invalid inputs gracefully.
+
+5. **Create Installer:**
+   - You can use tools like Inno Setup or WiX Toolset to create an installer for your application.
+   - Include all necessary files and dependencies in the installer.
+
+6. **Version Control with Git:**
+   - Learn the basics of Git: committing changes, branching, merging, etc.
+   - Commit your code changes regularly with descriptive commit messages.
+   - Push your changes to the GitHub repository.
+
+7. **Documentation:**
+   - Write a README.md file for your GitHub repository. Include instructions on how to install and use the calculator.
+   - Document any dependencies or prerequisites.
+
+8. **Publishing:**
+   - Once your calculator is ready and tested, create a release on GitHub.
+   - Upload your installer and any other necessary files to the release.
+
+9. **Continuous Improvement:**
+   - Solicit feedback from others and iterate on your project.
+   - Continue learning and improving your coding skills.
+
+Remember, this is just a basic roadmap. Feel free to customize it based on your preferences and learning goals. Good luck with your project, and don't hesitate to ask if you have any questions along the way!
