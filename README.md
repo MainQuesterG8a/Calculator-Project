@@ -11,7 +11,7 @@ For me to do this project, I watched and read the following tutorials on the "Li
 - https://www.youtube.com/watch?v=l1p2GQxcP54
 
 3. ChatGPT
-- Link can't be shared, I'm sorry.
+- Link can't be shared (even if I wanted to), I'm sorry.
 
-4. Git Tutorial for Beginners: Learn Git in 1 Hour
-- https://www.youtube.com/watch?v=8JJ101D3knE&t=182s
+4. Git and GitHub Tutorial for Beginners
+- https://www.youtube.com/watch?v=tRZGeaHPoaw
